@@ -1,0 +1,37 @@
+{
+	"menu": {
+		"trainings":{
+			"$_route":"HomeScreen",
+			"$_icon":"",
+			"$_name":"Trainings",
+			"$_submenu":{
+				"sub1":{
+					"$_route":"HomeScreen",
+					"$_name":"sub1"
+				},
+				"sub2":{
+					"$_route":"HomeScreen",
+					"$_name":"sub2"
+				}
+			}
+		},
+		"videos":{
+			"$_route":"HomeScreen",
+			"$_icon":"",
+			"$_name":"Videos",
+			"$_submenu":{}
+		},
+		"articles":{
+			"$_route":"HomeScreen",
+			"$_icon":"",
+			"$_name":"Articles",
+			"$_submenu":{}
+		},
+		"tests":{
+			"$_route":"HomeScreen",
+			"$_icon":"",
+			"$_name":"Tests",
+			"$_submenu":{}
+		}
+	}
+}
